@@ -50,7 +50,7 @@ class PageSatu extends StatelessWidget {
             Container(
               width: double.infinity,
               height: 75,
-              color: Colors.pink[400],
+              color: Colors.grey[400],
               child: const Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -75,7 +75,7 @@ class PageSatu extends StatelessWidget {
                       Column(
                         children: [
                           Container(
-                            color: Colors.pink[700],
+                            color: Colors.grey[700],
                             width: 310,
                             height: 420,
                             child: const Myphoto(),
