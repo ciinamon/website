@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "rievaldafap"
+  },
+  "targets": {
+    "rievaldafap": {
+      "hosting": {
+        "web1": [
+          "rievalda"
+        ],
+        "web2": [
+          "rievaldafap"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
